@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectPrep4ProductFlavorsBuildVariants</string>
+    <string name="welcome">Welcome to the Build Variant: </string>
+    <string name="type">Default</string>
+</resources>
